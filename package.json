@@ -1,0 +1,24 @@
+{
+  "name": "lemonka",
+  "version": "1.0.0",
+  "description": "wordpress woo-commerce lemon theme",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenysHnatiuk/lemonka.git"
+  },
+  "keywords": [
+    "lemons",
+    "wordpress",
+    "theme"
+  ],
+  "author": "Denys Hnatiuk <denys.hnatiuk@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE.TXT",
+  "bugs": {
+    "url": "https://github.com/DenysHnatiuk/lemonka/issues"
+  },
+  "homepage": "https://github.com/DenysHnatiuk/lemonka#readme"
+}
